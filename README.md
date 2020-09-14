@@ -1,4 +1,8 @@
-# suicides_in_india
+# Student Depression Prediction
+
+To run the project, clone the repository or download the zip file and extract and then execute ipynb files one by one.
+For executing ipynb files, you can use Jupyter Notebook or any other ipynb platform
+
 Data analysis to provide insights in order to find solutions to the problem of depression and suicide especially in university students.
 In a recent study published in Depression and Anxiety of more than 67,000 college students from more than 100 institutions, one in five students have had thoughts of suicide, with 9% making an attempt and nearly 20% reporting self-injury. One in four students reported being diagnosed with a mental illness. So it  can be directly inferred that sucide may be dependent on the depression.suicide is the second leading cause of death for young people ages 15 to 24.
 
